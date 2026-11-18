@@ -19,3 +19,7 @@ Kafeler ve yiyecek-içecek işletmeleri için hazırlanmış, **sunucu, alan ad�
 1. [`cafe-loyalty-template`](https://github.com/kafe-sadakat/cafe-loyalty-template) sayfasında **Use this template** düğmesiyle kendi hesabınıza kopyalayın.
 2. `.env.example` dosyasını `.env` olarak kopyalayıp `SECRET_KEY`, `BUSINESS_NAME`, `ACCENT_COLOR`, `REWARD_NAME` ve `STAMP_TARGET` alanlarını doldurun.
 3. `docker compose up -d --build` komutuyla çalıştırıp `http://localhost:8000` adresinden açın.
+
+## 🤝 Katkıda Bulunanlar
+
+Katkı ve geri bildirim kuralları için [CONTRIBUTING.md](../CONTRIBUTING.md) belgesine göz atabilirsiniz.
